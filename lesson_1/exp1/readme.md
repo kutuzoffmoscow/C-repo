@@ -1,8 +1,7 @@
 # Задача 2:
 
 ## Напишите программу, которая на вход принимает два числа и выдаёт, какое число большее, а какое меньшее.
-## Напишите программу, которая на вход принимает два числа и выдаёт, какое число большее, а какое меньшее
 
-[Код](C# course/lesson_1/Exp1/Program.cs)
+[Код](https://github.com/kutuzoffmoscow/C-repo/blob/main/lesson_1/exp1/Program.cs)
 
-[Блок-схема](C# course/lesson_1/Exp1/diagram.drawio.png)
+[Блок-схема](https://github.com/kutuzoffmoscow/C-repo/blob/main/lesson_1/exp1/diagram.drawio.png)
